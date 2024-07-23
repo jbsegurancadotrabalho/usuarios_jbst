@@ -13,7 +13,7 @@
 	<artifactId>Usuarios</artifactId>
 	<version>2.0</version>
 	<name>Usuarios</name>
-	<description>Api de Matriculas de Usuários</description>
+	<description>Api de Usuários</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
